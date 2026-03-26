@@ -32,10 +32,7 @@ Special attention has been given to ensure that the layout adapts well to differ
 
 ## Setup and Installation
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/oftheus/Instagram-Login-Pagin-Clone.git
-   ```
+1. Clone the repository to your local machine
 2. Navigate to the project directory:
    ```bash
    cd Instagram-Login-Page-Clone
